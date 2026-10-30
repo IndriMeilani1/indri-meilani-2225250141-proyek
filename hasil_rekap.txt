@@ -1,0 +1,8 @@
+REKAP ANALISIS NILAI MAHASISWA
+==============================
+Jumlah data valid: 7
+Rata-rata: 76.00
+Nilai minimum: 55.00
+Nilai maksimum: 92.00
+Jumlah lulus: 6
+Jumlah tidak lulus: 1
